@@ -1,0 +1,45 @@
+2
+00:00:02,040 --> 00:00:05,730
+This is an external
+design system in practice.
+
+3
+00:00:05,730 --> 00:00:07,770
+Hopefully you're in the right place.
+
+4
+00:00:07,770 --> 00:00:09,310
+If not, we can just take the chairs
+
+5
+00:00:09,310 --> 00:00:10,845
+that we put out and put them back.
+
+6
+00:00:10,845 --> 00:00:13,095
+(laughter)
+
+7
+00:00:14,532 --> 00:00:15,365
+I am Brian Perry.
+
+8
+00:00:15,365 --> 00:00:18,470
+I'm a lead front end
+developer at Bounteous.
+
+9
+00:00:18,470 --> 00:00:20,110
+I live in the Chicago suburbs,
+
+10
+00:00:20,110 --> 00:00:21,520
+which is more relevant to say
+
+11
+00:00:21,520 --> 00:00:23,980
+when you are speaking at other camps.
+
+12
+00:00:23,980 --> 00:00:25,785
+Substantially less interesting here.```
